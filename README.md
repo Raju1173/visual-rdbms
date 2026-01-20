@@ -12,4 +12,4 @@ Implementing the responsive UI using ratios and vignette/gradient effects using 
 
 I was going to add bezier curves for the arrows but time didn't allow me to.
 
-WARNING : Read the code at your own risk...
+The unreadable code is a reflection of my rapid iterations under a small time constraint. I was prioritizing learning over modularitty and scalability.
