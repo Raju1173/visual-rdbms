@@ -8,4 +8,6 @@ This was originally built as a school project, but the real goal was building an
 
 Implementing the responsive UI using ratios and vignette/gradient effects using surface.setpixel() was the most difficult but fun part.
 
+I was going to add bezier curves for the arrows but time didn't allow me to.
+
 WARNING : Read the code at your own risk...
